@@ -1,2 +1,9 @@
-# meghadc.github.io
-meghadc.github.io/portfolio
+# Data Analyst
+
+### Education
+Data Science, MS
+
+### Work Experience 
+
+
+### Projects
